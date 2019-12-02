@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	
+</body>
+<script >
+	prompt ("essage","hridk")
+	console.log (prompt("essage", "hridk"))
+</script>
+</html>
